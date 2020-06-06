@@ -1,0 +1,48 @@
+Q1: Persistent Volumes for a Kubernetes cluster are most analogous to what?
+https://medium.com/google-cloud/kubernetes-101-pods-nodes-containers-and-clusters-c1509e409e16
+a) Plugging in an external harddrive (correct)
+b) The Borg hivemind
+c) Breaking open a pinata
+d) A 9/80 work schedule
+
+Q2: How can you create a Kubernetes deployment?
+https://cloud.google.com/kubernetes-engine/docs/concepts/deployment
+a) kubectl run
+b) kubectl apply
+c) kubectl create
+d) All of the above (correct)
+
+Q3: Which of the below is configurable for Kubernetes Pods?
+https://cloud.google.com/kubernetes-engine/docs/concepts/pod
+a) CPU
+b) Memory
+c) Node pool
+d) All of the above (correct)
+
+Q4: What is also created when a Kubernetes service is created?
+https://cloud.google.com/kubernetes-engine/docs/concepts/service
+a) A Minikube installation
+b) Relevant cloud storage
+c) An Endpoints object (correct)
+d) A WSDL describing how to use the service
+
+Q5: In Kubernetes, what is a replica?
+https://cloud.google.com/kubernetes-engine/docs/how-to/scaling-apps
+a) A representation of a Kubernetes Pod encapsulating application containers (correct)
+b) A downloadable copy of a Kubernetes node
+c) Two Kubernetes clusters with identical nodes but different masters
+d) A fork of code deployed on Kubernetes
+
+Q6: Which of the following is NOT an example of a Kubernetes workload?
+a) DaemonSets
+b) Deployments
+c) StatefulSets
+d) None of the above (correct)
+
+PDF
+https://cloud.google.com/kubernetes-engine/docs/concepts/horizontalpodautoscaler
+Q7: How would you create a Horizontal Pod Autoscaling object in Kubernetes?
+a) kubectl config
+b) kubectl create
+c) kubectl autoscale (correct)
+d) kubectl rollout
